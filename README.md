@@ -1,5 +1,5 @@
 ## Hi there 👋
- I am new to coding and am currently working on making a webiste for my impact project and learning how to use claude code
+ I am new to coding and am currently working on making a webiste for my impact project and learning how to use claude code. 
  I work on climate & sustainability and learning how to automate the boring tasks to work on more thoughtful tasks
 
 <!--
